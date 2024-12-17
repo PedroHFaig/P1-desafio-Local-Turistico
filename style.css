@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-family: "Open Sans", serif;
+    color: #333;
+}
+
+body{
+    background-color: #F5F4F0;
+}
+
+#page {
+    box-sizing: border-box;
+    width: 1120px;
+    margin: 88px auto 65px;
+}
+
+#page img {
+    width: 1120px;
+    border-radius: 28px;
+}
+
+#title-page p, #title-list p:first-child {
+    color: #E1624f;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    color: #1b1b1b;
+}
+
+h1 {
+    margin: 8px auto 40px;
+    font-size: 36px ;
+}
+
+#description p {
+    margin: 24px auto 44px;
+    text-align: center;
+    font-style: italic;
+}
+
+.divisor {
+   border: solid 1px #d9d9d9;   
+}
+
+main{
+    margin-bottom: 40px;
+}
+
+#title-list {
+    margin: 64px auto;
+}
+
+#title-list h2 {
+    margin: 2px auto 8px;
+    font-size: 32px;
+}
+
+main .mid {
+    margin: 64px auto;
+}
+
+.card-travel h3 {
+    margin: 20px auto 4px;
+    font-size: 28px;
+}
+
+.blue {
+    color: #0C51A7;
+}
+
+.purple {
+    color: #591B98;
+}
+
+.pink {
+    color: #E5245E;
+}
+
+.orange{
+   color: #E95E10;
+}
+
+
+#p-end {
+    margin-top: 40px;
+    text-align: center;
+    font-style: italic;
+}
+
+footer {
+    font-family: "Alice", serif;
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+}
